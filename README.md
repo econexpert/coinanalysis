@@ -1,4 +1,4 @@
-# coinanalysis
+# coin analysis
 
 **Analysis of crypto coins**
 
