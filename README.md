@@ -4,7 +4,7 @@
 
 1. *correlationwindowtimeseries.py*
 
-Sliding correlation window. Creates following charts: 
+Sliding correlation window for two to many coins. Creates following charts on one plot: 
 
 <img src="https://github.com/econexpert/coinanalysis/blob/4d2d37ce0aa45842cab501eadcdd528cb2f13cac/images/ADABTCETHLTCSOLcorrelation.jpg" alt="alt text" width="558" height="500">
 
