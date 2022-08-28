@@ -10,6 +10,8 @@ Sliding correlation window for two to many coins. Creates following charts on on
 
 2. *chartingdips.ipynb*
 
-Traversing crypto time series and plotting on chart: 
+Traversing crypto time series and plotting on chart. This jupyter notebook can be run on google colab.
 
+
+<img src="https://github.com/econexpert/coinanalysis/blob/main/images/BTCUSDTcolaboutput.jpg" alt="alt text" width="558" height="258">
 
