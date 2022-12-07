@@ -1,4 +1,4 @@
-# coin analysis
+# Coin analysis
 
 **Analysis of crypto coins**
 
@@ -15,3 +15,6 @@ Traversing crypto time series and plotting on chart. This jupyter notebook can b
 
 <img src="https://github.com/econexpert/coinanalysis/blob/main/images/BTCUSDTcolaboutput.jpg" alt="alt text" width="558" height="258">
 
+3. *chartingdips_compared.ipynb*    
+
+Comparing coin dips with the same origin point and base 100
