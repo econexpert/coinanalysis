@@ -18,3 +18,8 @@ Traversing crypto time series and plotting on chart. This jupyter notebook can b
 3. *chartingdips_compared.ipynb*    
 
 Comparing coin dips with the same origin point and base 100
+
+<img src="https://github.com/econexpert/coinanalysis/blob/main/images/chartingdips_compared.png" alt="alt text" width="558" height="258">
+
+
+
