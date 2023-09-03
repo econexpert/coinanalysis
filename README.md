@@ -20,6 +20,14 @@ Traversing crypto time series and plotting on chart. This jupyter notebook can b
 Comparing coin dips with the same origin point and base 100
 
 <img src="https://github.com/econexpert/coinanalysis/blob/main/images/chartingdips_compared.png" alt="alt text" width="558" height="258">
+
+## *heatmapmonthlyreturns.ipynb*    
+
+Creates a heatmap of monthly returns
+
+<img src="https://github.com/econexpert/coinanalysis/blob/main/images/heatmapbtc.jpg" alt="alt text" width="558" height="258">
+
+
      
 Updates always on my Twitter: 
      
